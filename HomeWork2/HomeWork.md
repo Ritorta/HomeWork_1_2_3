@@ -88,3 +88,7 @@
 
 **git log --all --graph --oneline --decorate** - Для просмотра истории коммитов по всем веткам используется флаг *--all*.
 
+## *End home work.*
+#
+#
+#
